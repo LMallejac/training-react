@@ -8,12 +8,20 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/css": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "emotion": "^10.0.27",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-hook-form": "^6.6.0",
-    "react-scripts": "^3.4.3"
+    "react-scripts": "^3.4.3",
+    "sancho": "^3.5.6"
   },
   "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.20.6",
     "typescript": "3.8.3"
   },
   "scripts": {
